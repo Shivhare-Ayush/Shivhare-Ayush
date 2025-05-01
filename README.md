@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![Ayush's GitHub stats](https://github-readme-stats-phi-nine-17.vercel.app/api?username=shivhare-ayush&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+**Want to share your stats too?**  ![github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NotVeks/NotVeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
